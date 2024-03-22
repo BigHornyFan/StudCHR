@@ -1,0 +1,4 @@
+﻿  StudChr.cpp
+D:\my programs\SCHR\StudChr\StudChr.cpp(28,9): warning C4101: year: неиспользованная локальная переменная
+D:\my programs\SCHR\StudChr\StudChr.cpp(65,12): warning C4091: : пропускается слева от "std::basic_string<char,std::char_traits<char>,std::allocator<char>>", когда ни одна переменная не объявлена
+  StudChr.vcxproj -> D:\my programs\SCHR\StudChr\x64\Debug\StudChr.exe
